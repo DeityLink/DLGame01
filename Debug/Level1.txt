@@ -1,0 +1,5 @@
+-spawn
+x,y
+-platforms
+x,y,w,h
+--
